@@ -1,0 +1,44 @@
+{
+    "Default": {
+        "dynamic_range_factor": 1,
+        "hsv_hue_var": 2,
+        "hsv_sat_var": 5,
+        "hsv_val_var": 6,
+        "rgb_noise_var": 0.007,
+        "sharpen_intensity": 0.01,
+        "warmth_factor": 0.03,
+        "contrast_alpha": 1,
+        "contrast_beta": 3,
+        "desaturation_factor": 0.85,
+        "grain_amount": 0.02,
+        "jpeg_quality": 80
+    },
+    "Low Quality": {
+        "dynamic_range_factor": 1,
+        "hsv_hue_var": 2,
+        "hsv_sat_var": 5,
+        "hsv_val_var": 6,
+        "rgb_noise_var": 0.007,
+        "sharpen_intensity": 0.04,
+        "warmth_factor": 0.03,
+        "contrast_alpha": 1,
+        "contrast_beta": 3,
+        "desaturation_factor": 0.86,
+        "grain_amount": 0.015,
+        "jpeg_quality": 15
+    },
+    "Strong Grain": {
+        "dynamic_range_factor": 1,
+        "hsv_hue_var": 2,
+        "hsv_sat_var": 5,
+        "hsv_val_var": 6,
+        "rgb_noise_var": 0.007,
+        "sharpen_intensity": 0.15,
+        "warmth_factor": 0.03,
+        "contrast_alpha": 1,
+        "contrast_beta": 3,
+        "desaturation_factor": 0.85,
+        "grain_amount": 0.1,
+        "jpeg_quality": 95
+    }
+}
