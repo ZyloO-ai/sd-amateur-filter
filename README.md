@@ -18,7 +18,7 @@ sd-amateur-filter is a Stable Diffusion Automatic1111/WebUI extension that appli
 - In the URL field, enter:
 
 ```bash
-  https://github.com/x/x.git
+  https://github.com/ZyloO-ai/sd-amateur-filter.git
 ```
 - Click "Install"
 - Go to "Installed"
@@ -32,7 +32,7 @@ sd-amateur-filter is a Stable Diffusion Automatic1111/WebUI extension that appli
 ```
 - Clone this repository into the extensions folder:
 ```bash
-  git clone https://github.com/x/x.git
+  https://github.com/ZyloO-ai/sd-amateur-filter.git
 ```
 - Restart the Stable Diffusion Web UI
 
@@ -49,3 +49,5 @@ You should now see an "Amateur Filter" collapsible panel in txt2img and img2img 
   - JPEG Quality: Lower values increase compression artifacts.
 - For more control, expand the "Advanced" panel to fine-tune color shifts, contrast, noise, and warmth.
 - Click Generate, your image will be processed with the selected filter settings.
+
+![Sample](./sample.png)
